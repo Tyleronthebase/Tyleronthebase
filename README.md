@@ -14,6 +14,8 @@
 
 ### 👨‍💻 About Me
 
+<div align="center">
+
 ```typescript
 const tyler = {
     location: "🌍 Earth",
@@ -34,6 +36,8 @@ const tyler = {
     funFact: "I debug with console.log() 🐛"
 };
 ```
+
+</div>
 
 ---
 
@@ -95,14 +99,6 @@ const tyler = {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tyleronthebase&custom_title=Tyler's%20Contribution%20Graph&hide_border=true&theme=github-compact&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" alt="Activity Graph" width="100%"/>
-</div>
-
----
-
-### 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
 ---
