@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-<img align="right" alt="Coding GIF" width="400" src="https://media.tenor.com/4oBb38tP7sgAAAAi/metro-man-metro-man-arm-swing.gif">
+<img align="right" alt="Coding GIF" width="400" src="https://media1.tenor.com/m/Edln-6reCiYAAAAd/metro-man-metro-man-arm-swing.gif">
 
 ```typescript
 const tyler = {
